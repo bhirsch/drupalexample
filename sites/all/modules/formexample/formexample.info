@@ -1,0 +1,7 @@
+; $Id $
+name = Form Example
+description = This is a form example module.
+core = 6.x
+version = "6.x-0.0"
+project = "git example"
+
